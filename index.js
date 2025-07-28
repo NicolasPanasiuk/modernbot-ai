@@ -1,4 +1,4 @@
-oimport TelegramBot from "node-telegram-bot-api";
+import TelegramBot from "node-telegram-bot-api";
 import { config } from "dotenv";
 import OpenAI from "openai";
 
